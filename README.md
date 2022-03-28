@@ -3,3 +3,5 @@
 A simple snake game written in Python using PyGame
 
 The project is written using PyCharm IDE
+
+![Preview](https://imgur.com/MzZtPjo)
